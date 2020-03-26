@@ -1,4 +1,4 @@
-# bernard.maltais-canada.ca
+# Basic Linux VM from Custom VHD v2
 terraform-azurerm-basiclinuxvm-customvhd-v2
 ploys a simple [virtual machine resource](https://docs.microsoft.com/en-us/azure/templates/microsoft.compute/2019-03-01/virtualmachines) with an NSG, 1 NIC and a simple OS Disk.
 
